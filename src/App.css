@@ -1,0 +1,54 @@
+nav {
+  background-color:#424242;
+}
+
+body {
+  margin-top:75px;
+  background-color:#ededed;
+}
+
+hr {
+height: 1px;
+color: #5bc0de;
+background-color: #5bc0de;
+border: none;
+}
+
+input {
+  width:98%;
+}
+
+.jumbotron {
+  margin-top: 15px;
+  background-color:#424242;
+  color:#f9f9f9;
+}
+
+.card-deck {
+  margin-bottom: 15px;
+}
+
+div.card-inverse {
+  background-color:#424242;
+  border-color:#424242;
+  color:white;
+}
+
+img.social {
+  max-height:25px;
+  max-width:50px;
+}
+
+.my-face {
+  max-width:100%;
+  height:auto;
+}
+
+img:not(.social) {
+object-fit:cover;
+height: 110px;
+}
+
+.form-group {
+  margin-top:10px;
+}
